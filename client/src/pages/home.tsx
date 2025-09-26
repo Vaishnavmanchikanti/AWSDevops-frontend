@@ -133,7 +133,7 @@ export default function Home() {
               </div>
               <h3 className="text-lg font-semibold text-foreground mb-3">Career Certification Prep</h3>
               <p className="text-muted-foreground">
-                Get prepared to pass the SnowPro Core Certification and guidance for Advanced certifications.
+                Get prepared to pass the AWS DevOps Certification and guidance for Advanced certifications.
               </p>
             </div>
             
