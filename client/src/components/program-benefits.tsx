@@ -7,7 +7,7 @@ export default function ProgramBenefits() {
     {
       icon: UserCheck,
       title: "Experienced Trainer",
-      description: "Learn from a professional with over 17 years of experience in the IT industry and more than four years of experience with Snowflake. Our trainer is a Snowflake SnowPro Certified professional who has delivered training for both corporate and retail batches.",
+      description: "Learn from a Cloud & DevOps Engineer with 1.5 years of hands-on industry experience in AWS, CI/CD pipelines, Terraform, Docker, and Kubernetes. Our trainer has also delivered training to students and professionals, recently being offered an AWS Instructor role at a reputed academy.",
       bgColor: "bg-primary/10",
       iconColor: "text-primary",
       customHeading: false
