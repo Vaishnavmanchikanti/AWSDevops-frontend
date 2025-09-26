@@ -38,7 +38,7 @@ export default function HeroSection() {
                     AWS DevOps
                   </span>
                   <br />
-                  <span className="text-4xl md:text-5xl lg:text-6xl">in 8 Weeks</span>
+                  <span className="text-4xl md:text-5xl lg:text-6xl">in 3 Weeks</span>
                 </h1>
                 <p className="text-sm md:text-md text-blue-100 leading-relaxed max-w-2xl">
                   Expert-led training program designed to get you job-ready in  AWS DevOps through hands-on training and real-world projects.
@@ -54,8 +54,8 @@ export default function HeroSection() {
                     </svg>
                   </div>
                   <div>
-                    <div className="font-semibold text-white">17+ Years Expert</div>
-                    <div className="text-sm text-blue-200">SnowPro Certified</div>
+                    <div className="font-semibold text-white">1.5+ Years Expert</div>
+                    <div className="text-sm text-blue-200">Cloud/DevOps Engineer</div>
                   </div>
                 </div>
                 
