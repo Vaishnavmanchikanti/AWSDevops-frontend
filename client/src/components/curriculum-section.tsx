@@ -7,10 +7,10 @@ import {
 
 export default function FAQSection() {
  
-       const faqs = [
+      const faqs = [
   {
     number: 1,
-    title: "DAY 1 – AWS CLOUD FUNDAMENTALS",
+    title: "AWS CLOUD FUNDAMENTALS",
     description: [
       "Introduction to Cloud Computing – Basics, benefits, and use cases",
       "AWS Global Infrastructure – Regions, Availability Zones, Edge Locations",
@@ -19,7 +19,7 @@ export default function FAQSection() {
   },
   {
     number: 2,
-    title: "DAY 2 – IDENTITY & ACCESS MANAGEMENT (IAM)",
+    title: "IDENTITY & ACCESS MANAGEMENT (IAM)",
     description: [
       "IAM Users, Groups, Roles, and Policies",
       "IAM Identity Centre (SSO) – Centralised access management",
@@ -27,7 +27,7 @@ export default function FAQSection() {
   },
   {
     number: 3,
-    title: "DAY 3 – COMPUTE SERVICES",
+    title: "COMPUTE SERVICES",
     description: [
       "EC2 Basics – Launching instances & understanding instance types",
       "Launch Templates – Preconfigure instance settings",
@@ -36,7 +36,7 @@ export default function FAQSection() {
   },
   {
     number: 4,
-    title: "DAY 4 – EBS (ELASTIC BLOCK STORE)",
+    title: "EBS (ELASTIC BLOCK STORE)",
     description: [
       "Volumes – Creating, attaching, resizing",
       "Snapshots – Backups & restores",
@@ -45,7 +45,7 @@ export default function FAQSection() {
   },
   {
     number: 5,
-    title: "DAY 5 – STORAGE SERVICES",
+    title: "STORAGE SERVICES",
     description: [
       "S3 Buckets – Creation & configuration",
       "Storage Classes – Standard, IA, Glacier, One Zone-IA",
@@ -55,7 +55,7 @@ export default function FAQSection() {
   },
   {
     number: 6,
-    title: "DAY 6 – NETWORKING (THEORY)",
+    title: "NETWORKING (THEORY)",
     description: [
       "VPC – Overview and components",
       "Subnets – Public vs Private",
@@ -66,14 +66,14 @@ export default function FAQSection() {
   },
   {
     number: 7,
-    title: "DAY 7 – NETWORKING (HANDS-ON)",
+    title: "NETWORKING (HANDS-ON)",
     description: [
       "Practical VPC Setup – Create VPC, subnets, route tables, IGW, and test connectivity",
     ],
   },
   {
     number: 8,
-    title: "DAY 8 – LOAD BALANCING (PART 1)",
+    title: "LOAD BALANCING (PART 1)",
     description: [
       "Load Balancers – Introduction",
       "Configure 1 type of Load Balancer (e.g., Application Load Balancer)",
@@ -81,35 +81,35 @@ export default function FAQSection() {
   },
   {
     number: 9,
-    title: "DAY 9 – LOAD BALANCING (PART 2)",
+    title: "LOAD BALANCING (PART 2)",
     description: [
       "Deep dive into 2 additional Load Balancer types (NLB, Gateway LB)",
     ],
   },
   {
     number: 10,
-    title: "DAY 10 – MONITORING & LOGGING",
+    title: "MONITORING & LOGGING",
     description: [
       "CloudWatch – Metrics, alarms, dashboards (theory + hands-on)",
     ],
   },
   {
     number: 11,
-    title: "DAY 11 – SERVERLESS COMPUTING",
+    title: "SERVERLESS COMPUTING",
     description: [
       "AWS Lambda – Functions, triggers, execution role",
     ],
   },
   {
     number: 12,
-    title: "DAY 12 – EVENT-DRIVEN ARCHITECTURE",
+    title: "EVENT-DRIVEN ARCHITECTURE",
     description: [
       "EventBridge + SNS + Lambda – Practical demo (event-driven automation)",
     ],
   },
   {
     number: 13,
-    title: "DAY 13 – AUDITING & COST MANAGEMENT",
+    title: "AUDITING & COST MANAGEMENT",
     description: [
       "CloudTrail Setup – Track who did what in AWS",
       "Cost Explorer – Track, analyse, and optimise costs",
@@ -117,20 +117,21 @@ export default function FAQSection() {
   },
   {
     number: 14,
-    title: "DAY 14 – SECURITY & CONTENT DELIVERY",
+    title: "SECURITY & CONTENT DELIVERY",
     description: [
       "CloudFront (CDN) – Setup and distribution",
     ],
   },
   {
     number: 15,
-    title: "DAY 15 – SECURITY & GOVERNANCE (ADVANCED)",
+    title: "SECURITY & GOVERNANCE (ADVANCED)",
     description: [
       "Amazon Inspector – Security vulnerability scanning",
       "AWS Trusted Advisor – Best practice recommendations for cost, security, and performance",
     ],
   },
 ];
+
 
 
   return (
