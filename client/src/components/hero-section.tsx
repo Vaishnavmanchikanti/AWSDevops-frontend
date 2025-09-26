@@ -38,7 +38,7 @@ export default function HeroSection() {
                     AWS DevOps
                   </span>
                   <br />
-                  <span className="text-4xl md:text-5xl lg:text-6xl">in 3 Weeks</span>
+                  <span className="text-4xl md:text-5xl lg:text-6xl">in 4 Weeks</span>
                 </h1>
                 <p className="text-sm md:text-md text-blue-100 leading-relaxed max-w-2xl">
                   Expert-led training program designed to get you job-ready in  AWS DevOps through hands-on training and real-world projects.
