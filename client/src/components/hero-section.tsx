@@ -54,7 +54,7 @@ export default function HeroSection() {
                     </svg>
                   </div>
                   <div>
-                    <div className="font-semibold text-white">1.5+ Years Expert</div>
+                    <div className="font-semibold text-white">4+ Years Expert</div>
                     <div className="text-sm text-blue-200">Cloud/DevOps Engineer</div>
                   </div>
                 </div>
