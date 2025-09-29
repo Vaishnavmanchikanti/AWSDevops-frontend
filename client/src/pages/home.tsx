@@ -168,11 +168,11 @@ export default function Home() {
           
           <div className="grid md:grid-cols-3 gap-8 mb-12">
             <div>
-              <div className="text-3xl font-bold text-blue-500 mb-2">8</div>
+              <div className="text-3xl font-bold text-blue-500 mb-2">4</div>
               <div className="text-black">Week Sessions</div>
             </div>
             <div> 
-              <div className="text-3xl font-bold text-blue-500 mb-2">17+</div>
+              <div className="text-3xl font-bold text-blue-500 mb-2">4+</div>
               <div className="text-black">Years Experience</div>
             </div>
             <div>
